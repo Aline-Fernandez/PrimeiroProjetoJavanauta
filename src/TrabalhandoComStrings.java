@@ -1,7 +1,7 @@
 public class TrabalhandoComStrings {
     public static void main(String[] args) {
   String nome = "Aline ";
-  String sobrenome = "Fernandes";
+  String sobrenome = "Fernandes ";
 
   int tamanhoString = nome.length();
   boolean saoIguais = nome.equals(sobrenome);
