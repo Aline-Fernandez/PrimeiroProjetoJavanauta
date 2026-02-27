@@ -10,6 +10,6 @@ public class While {
         do {
             System.out.println("Contador do while " + contador);
             contador++;
-        } while (contador <= 5);
+        } while (contador <= 6);
     }
 }
