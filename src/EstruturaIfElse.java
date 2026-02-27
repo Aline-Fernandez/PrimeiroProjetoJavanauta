@@ -14,7 +14,7 @@
                 boolean temDinheiro = false;
                 boolean temCartao = false;
 
-                if(estaChovendo && temDinheiro || temCartao) {
+                if((estaChovendo && temDinheiro) || temCartao) {
                     System.out.println("Pede um ifood");
                 }
                 else if(!estaChovendo){
@@ -23,8 +23,5 @@
                 else {
                     System.out.println("Não dá pra pedir comida, então vou fazer um miojo");
                 }
-
-
-
     }
     }
