@@ -1,37 +1,40 @@
+<img src="https://javanauta.com.br/wp-content/uploads/2024/03/Javanauta__3_-removebg-preview.png" alt="Logo Javanauta Academy" width="200"/>
 
+<br>
 
-<p align="center">
-  <img src="https://javanauta.com.br/wp-content/uploads/2024/03/Javanauta__3_-removebg-preview.png" alt="Logo Javanauta Academy" width="200"/>
-</p>
+<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Plataforma-Javanauta-blueviolet?style=for-the-badge" alt="Plataforma" /> <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 # Java Fundamentals - Javanauta Academy
 
-Este repositório contém todos os códigos, anotações e desafios práticos desenvolvidos por mim durante o curso de **Lógica de Programação com Java** da [Javanauta Academy](https://www.youtube.com/@Javanauta).
+Este repositório contém todos os códigos, anotações e desafios práticos desenvolvidos durante o curso de **Lógica de Programação com Java** da [Javanauta Academy](https://www.youtube.com/@Javanauta).
+
+---
 
 ## 🎯 Objetivo do Projeto
-O objetivo deste repositório é documentar minha evolução no aprendizado da linguagem Java, consolidando os conceitos fundamentais de lógica e sintaxe da linguagem.
+Documentar minha evolução no aprendizado da linguagem Java, consolidando os conceitos fundamentais de lógica, sintaxe e as bases necessárias para a Engenharia de Software.
+
+## 🚀 Progresso dos Estudos
+- [x] **Módulo 1-3:** Configuração de Ambiente e Primeiro Código
+- [x] **Módulo 4-6:** Variáveis, Tipos de Dados e Operadores
+- [x] **Módulo 7-9:** Entrada/Saída de Dados (Scanner e Printf)
+- [x] **Módulo 10-12:** Estruturas Condicionais (If, Else, Switch)
+- [x] **Módulo 13-15:** Estruturas de Repetição (While, For) e Casting
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** Java
+* **Linguagem:** Java 17+
 * **IDE:** IntelliJ IDEA
-* **Versão do JDK:** 17+
-* **Versionamento:** Git
+* **Versionamento:** Git e GitHub
 
-## 📑 Principais Tópicos Estudados
-Ao longo dos 15 módulos do curso, foram abordados e praticados os seguintes conceitos:
+---
 
-* **Configuração de Ambiente:** Instalação do JDK e configuração da IDE.
-* **Variáveis e Tipos de Dados:** Primitivos (`int`, `double`, `char`, `boolean`) e Tipos de Referência (`String`).
+## 📑 Tópicos Detalhados
+* **Variáveis:** Primitivos (`int`, `double`, `boolean`) e Referência (`String`).
 * **Operadores:** Aritméticos, relacionais e lógicos.
-* **Saída de Dados:** Formatação com `System.out.printf`, `print` e `println`.
-* **Entrada de Dados:** Interação com o usuário através da classe `Scanner`.
-* **Estruturas Condicionais:** Controle de fluxo com `if`, `else if`, `else` e `switch case`.
-* **Estruturas de Repetição:** Laços `while`, `do-while` e `for`.
-* **Casting:** Conversão entre diferentes tipos de dados.
-* **Boas Práticas:** Convenções de nomenclatura (CamelCase) e comentários de código.
+* **Controle de Fluxo:** Tomada de decisão e laços de repetição.
+* **Boas Práticas:** Convenções de nomenclatura (CamelCase) e Clean Code básico.
 
 ## 🚀 Como Executar
-1. Certifique-se de ter o JDK instalado em sua máquina.
+1. Certifique-se de ter o JDK instalado.
 2. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)****
+```bash
+git clone [https://github.com/Aline-Fernandez/NOME_DO_REPOSITORIO.git](https://github.com/Aline-Fernandez/NOME_DO_REPOSITORIO.git)
