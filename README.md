@@ -2,9 +2,11 @@
 
 <br>
 
+# Java Fundamentals - Javanauta Academy
+
 <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/Plataforma-Javanauta-blueviolet?style=for-the-badge" alt="Plataforma" /> <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
-# Java Fundamentals - Javanauta Academy
+
 
 Este repositório contém todos os códigos, anotações e desafios práticos desenvolvidos durante o curso de **Lógica de Programação com Java** da [Javanauta Academy](https://www.youtube.com/@Javanauta).
 
